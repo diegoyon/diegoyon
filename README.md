@@ -1,24 +1,18 @@
 ### Hi there, I'm Diego 👋
 
+- 🔭 I’m currently working on becoming a Software Developer!
+- 🌱 I’m currently learning Frontend and Backend languages.
+- 🎓 I have a degree in Mechatronics Engineering.
+- 💬 Ask me about anything
+- 📫 How to reach me: diegoyon@outlook.com
+- ⚡ Fun fact: Love doing CrossFit and play video games.
+
+- 🛠 Tech Stack: HTML, CSS, JavaScript, Git&GitHub, Webpack.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-yon-9311aa41/)
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoyon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegoyon)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**diegoyon/diegoyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
