@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m currently working on becoming a Software Developer!
-- 🌱 I’m currently learning Frontend and Backend languages.
+- 🌱 I’m currently learning Frontend and Backend technologies.
 - 🎓 I have a degree in Mechatronics Engineering.
 - 💬 Ask me about anything
 - 📫 How to reach me: diegoyon@outlook.com
