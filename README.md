@@ -1,12 +1,11 @@
 ## Hi there, I'm Diego 👋
 
-
 - 🔭 I’m currently working on becoming a Software Developer!
 - 🌱 I’m currently learning Frontend and Backend technologies.
 - 🎓 I have a degree in Mechatronics Engineering.
-- 💬 Ask me about anything
-- 📫 How to reach me: diegoyon@outlook.com
-- ⚡ Fun fact: Love doing CrossFit and play video games.
+- 🤔 I'm currently open for a new job opportunity.
+- :nerd_face: I'm always learning, never stopping.
+- ⚡ Fun fact: Love doing CrossFit.
 
 ## 🛠 Skills
 - HTML
