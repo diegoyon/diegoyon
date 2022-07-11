@@ -21,8 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
-![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diegoyon@outlook.com)
-
-![](https://komarev.com/ghpvc/?username=diegoyon)
