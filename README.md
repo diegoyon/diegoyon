@@ -1,5 +1,5 @@
-### Hi there, I'm Diego 👋
-<hr>
+## Hi there, I'm Diego 👋
+
 
 - 🔭 I’m currently working on becoming a Software Developer!
 - 🌱 I’m currently learning Frontend and Backend technologies.
@@ -7,8 +7,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: diegoyon@outlook.com
 - ⚡ Fun fact: Love doing CrossFit and play video games.
-<hr>
-<h3>🛠 Tech Stack</h3>
+
+## 🛠 Tech Stack
 - HTML
 - CSS
 - JavaScript
