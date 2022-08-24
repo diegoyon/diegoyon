@@ -13,6 +13,8 @@
 - JavaScript
 - Git & GitHub
 - Webpack
+- React
+- Redux
 
 ## 📊 Github Stats
 
