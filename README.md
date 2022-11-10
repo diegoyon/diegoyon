@@ -18,6 +18,7 @@
 - Ruby
 - Ruby on Rails
 - PostgreSQL
+- Netlify
 
 ## 📊 Github Stats
 
