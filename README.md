@@ -15,6 +15,9 @@
 - Webpack
 - React
 - Redux
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
 ## 📊 Github Stats
 
