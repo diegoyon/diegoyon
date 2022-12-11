@@ -1,7 +1,7 @@
 ## Hi there, I'm Diego 👋
 
-- 🔭 I’m currently working on becoming a software developer!
-- 🌱 I’m currently learning frontend and backend technologies.
+- 🔭 I’m a software developer!
+- 🌱 I’m constantly learning new frontend and backend technologies.
 - 🎓 I have a degree in mechatronics engineering.
 - 🤔 I'm currently open for a new job opportunity.
 - :nerd_face: I'm always learning, never stopping.
