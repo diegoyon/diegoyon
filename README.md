@@ -12,13 +12,11 @@
 - CSS
 - JavaScript
 - Git & GitHub
-- Webpack
 - React
 - Redux
 - Ruby
 - Ruby on Rails
 - PostgreSQL
-- Netlify
 
 ## 📊 Github Stats
 
